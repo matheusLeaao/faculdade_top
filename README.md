@@ -1,2 +1,3 @@
-# faculdade_top
-Somente para projetos e testes para faculdade
+# Faculdade TOP
+
+Clone a vontade, faça seus testes com as aulas e estude bastante!
